@@ -1,5 +1,7 @@
 Agile Tickets
+Desenvolvedor Principal: Michel de Almeida
 =============
+
 
 Começando a desenvolver
 -----------------------
